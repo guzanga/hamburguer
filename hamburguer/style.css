@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+
+header{
+    background-color: #FFD704;
+}
+
+#amarelo_cima{
+    max-height: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#whats{
+    border: none;
+    background-color: #0BD42B;
+    border-radius: 20px;
+    height: 28px;
+    width: 149px;
+    color: white;
+}
+
+#cima{
+    width: 186px;
+    height: 24px;
+    font-size: 20px;
+}
+
+#imagem{
+    background: #ffffff url(img/AdobeStock_244611927.jpeg) center center/cover no-repeat;
+    height: 500px;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#Sabor{
+    color: white;
+    font-size: 64px;
+
+}
+
+#Exigentes{
+    color: white;
+    font-size: 20px;
+}
+
+#vermais{
+    border: none;
+    background-color: #DE0A0A;
+    color: white;
+    border-radius: 18px;
+    width: 260px;
+    height: 41px;
+}
+
+#hamburg{
+    border-radius: 10px;
+    background: #ffffff url(img/AdobeStock_334881645.jpeg) center center/cover no-repeat;
+}
+
+#combo{
+    border-radius: 10px;
+    background: #ffffff url(img/AdobeStock_577168329.jpeg) center center/cover no-repeat;
+}
